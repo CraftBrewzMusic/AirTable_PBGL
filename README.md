@@ -9,6 +9,9 @@ This repo packages the PBGL Airtable tooling as one Python project with:
 - committed schema markdown under `DOCS/AIRTABLE_API/`
 - setup and update scripts for teammate onboarding
 
+## Migration
+This project is based on a prior proof of concept `AirTable_CBz` located at https://github.com/CraftBrewzMusic/AirTable_CBz. We are currently migrating code and documentation from that repo into this one, with some refactoring and cleanup along the way. The `AirTable_CBz` repo is currently archived and read-only, but will remain available for reference. 
+
 ## Setup
 
 Requires Python 3.12+ and [`uv`](https://docs.astral.sh/uv/).

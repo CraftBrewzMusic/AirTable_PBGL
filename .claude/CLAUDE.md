@@ -1,0 +1,2 @@
+## Migration
+This project is based on a prior proof of concept `AirTable_CBz` located at https://github.com/CraftBrewzMusic/AirTable_CBz. We are currently migrating code and documentation from that repo into this one, with some refactoring and cleanup along the way. The `AirTable_CBz` repo is currently archived and read-only, but will remain available for reference. 
